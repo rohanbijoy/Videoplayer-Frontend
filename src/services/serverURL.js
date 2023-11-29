@@ -1,0 +1,1 @@
+export const serverURL = 'https://video-player-jb77.onrender.com'
